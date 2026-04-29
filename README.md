@@ -18,13 +18,15 @@ Developed GIS maps and regional booklet products using NASA NCCS climate and eco
 
 ---
 
-### 🌿 Vieques Coastal Mapping (In Progress)  
+### 🌿 Vieques Bioluminescence Mapping – Mosquito Bay  
 
-Social network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
+Mosquito Bay in Vieques, Puerto Rico is known for its year-round bioluminescence, driven by the dinoflagellate Pyrodinium bahamense. This project explores the ecological conditions that support this phenomenon while recognizing how tourism, land use, and the lasting impacts of military activity and colonialism shape the surrounding environment.
 
-![Vieques Social Network Map](Images/Vieques_PR_Social_Network.png)
+![Vieques Network Map](Images/Vieques_PR_Social_Network.png)
 
-🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431  
+Network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
+
+🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431
 
 ---
 
