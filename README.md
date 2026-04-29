@@ -24,7 +24,7 @@ Mosquito Bay in Vieques, Puerto Rico is known for its year-round bioluminescence
 
 ![Vieques Network Map](Images/Vieques_PR_Social_Network.png)
 
-Network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
+Social network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
 
 Storymap: 🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431
 
