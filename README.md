@@ -65,4 +65,4 @@ Used GIS to map and analyze marine species distribution and ecological patterns,
 
 - LinkedIn: https://linkedin.com/in/chefmaryb88  
 - GitHub: https://github.com/BanBan2488 
-- Resume: [Download Resume] (Mary_Banner_Resume.pdf) 
+- Resume: [Download Resume] (resume/Mary_Banner_Resume.pdf) 
