@@ -13,8 +13,6 @@ Developed GIS maps and regional booklet products using NASA NCCS climate and eco
 
 ![ABoVE Preview](Images/ABoVE_preview.png)
 
-🔗 StoryMap: ...
-
 🔗 StoryMap: https://storymaps.arcgis.com/stories/3cc6651e268042efbd99c4128f274107  
 🔗 GitHub: https://github.com/BanBan2488/ABoVE-plain-language-products  
 
