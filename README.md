@@ -33,21 +33,21 @@ Storymap: 🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ce
 ### 🌾 Effects of Anthropogenic Activities on Manoomin (Wild Rice)  
 Performed GIS analysis to identify environmental impacts on wild rice ecosystems, highlighting spatial relationships affecting water quality, habitat health, and food sovereignty.
 
-🔗 https://storymaps.arcgis.com/stories/49fdf986f15049d68111750f6b259499  
+Storymap: 🔗 https://storymaps.arcgis.com/stories/49fdf986f15049d68111750f6b259499  
 
 ---
 
 ### 🧭 Indigenous Research Methodologies  
 Applied Indigenous research frameworks alongside GIS tools to support community-centered environmental analysis and knowledge integration.
 
-🔗 https://storymaps.arcgis.com/stories/39772728a6ad44bb803027b06f771729  
+Storymap: 🔗 https://storymaps.arcgis.com/stories/39772728a6ad44bb803027b06f771729  
 
 ---
 
 ### 🐙 Phylum Cnidaria Project  
 Used GIS to map and analyze marine species distribution and ecological patterns, integrating spatial data with biological concepts.
 
-🔗 https://storymaps.arcgis.com/stories/c17829a472c249c8b869bc858d7a153a  
+Storymap: 🔗 https://storymaps.arcgis.com/stories/c17829a472c249c8b869bc858d7a153a  
 
 ---
 
