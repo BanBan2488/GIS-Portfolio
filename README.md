@@ -1,7 +1,11 @@
 # Mary C. Banner  
 Environmental GIS Analyst | Community-Centered Mapping | Earth Observation  
 
-I am an Indigenous environmental scientist specializing in GIS and remote sensing, with a focus on translating complex environmental data into accessible tools that support community understanding and natural resource management. My work emphasizes spatial analysis, environmental change, and culturally relevant approaches to data and mapping.
+I am an Indigenous environmental scientist with a Master of Professional Studies in Environmental Science focused on ecology and a background in geographic information systems (GIS), remote sensing, fisheries, water system operations, and natural resource management. My work combines geospatial technology, environmental field experience, and community-centered approaches to understanding environmental change.
+
+My professional experience includes NASA's Arctic-Boreal Vulnerability Experiment (ABoVE), NASA's Indigenous Peoples Initiative, fisheries work with the Yakama Nation, and drinking water system operations in western Washington. Across these roles, I have contributed to environmental mapping, Earth observation research, scientific communication, water quality monitoring, and natural resource management.
+
+I am particularly interested in bridging Indigenous Knowledge and Western science through Two-Eyed Seeing, using geospatial tools to support Indigenous communities, environmental stewardship, and informed decision-making.
 
 ---
 
@@ -13,7 +17,7 @@ Developed GIS maps and regional booklet products using NASA NCCS climate and eco
 
 ![ABoVE Preview](Images/ABoVE_preview.png)
 
-🔗 StoryMap: https://storymaps.arcgis.com/stories/3cc6651e268042efbd99c4128f274107  
+🔗 StoryMap: https://arcg.is/qDn5q0  
 🔗 GitHub: https://github.com/BanBan2488/ABoVE-plain-language-products  
 
 ---
@@ -26,28 +30,28 @@ Mosquito Bay in Vieques, Puerto Rico is known for its year-round bioluminescence
 
 Social network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
 
-Storymap: 🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431
+Storymap: 🔗 https://arcg.is/1q1XHr
 
 ---
 
 ### 🌾 Effects of Anthropogenic Activities on Manoomin (Wild Rice)  
 Performed GIS analysis to identify environmental impacts on wild rice ecosystems, highlighting spatial relationships affecting water quality, habitat health, and food sovereignty.
 
-Storymap: 🔗 https://storymaps.arcgis.com/stories/49fdf986f15049d68111750f6b259499  
+Storymap: 🔗 https://arcg.is/1v9ey02  
 
 ---
 
 ### 🧭 Indigenous Research Methodologies  
 Applied Indigenous research frameworks alongside GIS tools to support community-centered environmental analysis and knowledge integration.
 
-Storymap: 🔗 https://storymaps.arcgis.com/stories/39772728a6ad44bb803027b06f771729  
+Storymap: 🔗 https://arcg.is/TD0eX  
 
 ---
 
 ### 🐙 Phylum Cnidaria Project  
 Used GIS to map and analyze marine species distribution and ecological patterns, integrating spatial data with biological concepts.
 
-Storymap: 🔗 https://storymaps.arcgis.com/stories/c17829a472c249c8b869bc858d7a153a  
+Storymap: 🔗 https://arcg.is/1jGavm2  
 
 ---
 
