@@ -11,7 +11,7 @@ I am particularly interested in bridging Indigenous Knowledge and Western scienc
 
 ## GIS Portfolio
 
-[View My Professional GIS Portfolio](MBanner_GIS_Portfolio.pdf)
+[View My Professional GIS Portfolio](MBanner_GIS_Portfolio-compressed.pdf)
 
 ---
 
