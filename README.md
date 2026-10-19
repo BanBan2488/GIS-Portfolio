@@ -15,8 +15,8 @@ My portfolio features environmental GIS, remote sensing,
 cartography, NASA ABoVE research, fisheries, and
 water system operations.
 
-📄 [Download My GIS Portfolio](https://raw.githubusercontent.com/BanBan2488/GIS-Portfolio/main/MBanner_GIS_Portfolio-compressed.pdf)
-📄 [![GIS Portfolio Preview](portfolio-preview.png)](https://raw.githubusercontent.com/BanBan2488/GIS-Portfolio/main/MBanner_GIS_Portfolio-compressed.pdf)
+📄 [Download Professional GIS Portfolio](https://raw.githubusercontent.com/BanBan2488/GIS-Portfolio/main/MBanner_GIS_Portfolio-compressed.pdf)
+📄 [Preview Professional GIS Portfolio](MBanner_GIS_Portfolio-compressed.pdf)
 
 ---
 
