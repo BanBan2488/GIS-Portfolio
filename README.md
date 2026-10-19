@@ -77,4 +77,4 @@ Storymap: 🔗 https://arcg.is/1jGavm2
 
 - LinkedIn: https://linkedin.com/in/chefmaryb88  
 - GitHub: https://github.com/BanBan2488 
-- Resume: [Download Resume](Resume/Mary_Banner_Resume.pdf) 
+- Resume: [Download Resume](Resume/MASTER_Resume_Oct.pdf) 
