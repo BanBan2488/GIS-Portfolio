@@ -9,6 +9,12 @@ I am particularly interested in bridging Indigenous Knowledge and Western scienc
 
 ---
 
+## GIS Portfolio
+
+[View My Professional GIS Portfolio](MBanner_GIS_Portfolio.pdf)
+
+---
+
 ## Featured Projects
 
 ### 🌎 NASA ABoVE Capstone – Communicating Complex Data Simply  
