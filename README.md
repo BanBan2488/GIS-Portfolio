@@ -15,7 +15,7 @@ I am particularly interested in bridging Indigenous Knowledge and Western scienc
 Developed GIS maps and regional booklet products using NASA NCCS climate and ecosystem datasets, translating Arctic-Boreal environmental data into accessible, community-centered visualizations for northern and Indigenous communities.
  
 
-![ABoVE Preview](Images/ABoVE_preview.png)
+![ABoVE Preview](Images/ABoVE_TCC_Booklet.png)
 
 🔗 StoryMap: https://arcg.is/qDn5q0  
 🔗 GitHub: https://github.com/BanBan2488/ABoVE-plain-language-products  
